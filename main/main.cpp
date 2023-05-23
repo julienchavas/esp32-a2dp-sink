@@ -71,7 +71,7 @@ void setup() {
 
   a2dp_sink.set_bps_callback(bits_per_sample_cb);
 
-  a2dp_sink.start("InternalDAC", false);
+  a2dp_sink.start("BT_chavas", false);
 }
 
 extern "C" void app_main(void)
