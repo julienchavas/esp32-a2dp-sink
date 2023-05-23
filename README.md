@@ -1,3 +1,7 @@
+# This fork is here to add DSP to this project
+
+To do it, i'm using biquad filters.
+
 # ESP32 A2DP sink with extra codecs
 
 Supports aptX, aptX-HD, aptX-LL, LDAC codecs.
